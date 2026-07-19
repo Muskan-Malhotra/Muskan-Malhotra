@@ -29,16 +29,16 @@ I enjoy building AI-powered applications, cloud-native systems, and developer to
 - AI Agent applications
 - Preparing for MLH Fellowship
 
-Languages
+Languages -
 Go • Python • Java • JavaScript
 
-Cloud
+Cloud -
 AWS • IBM Cloud • Docker • Kubernetes
 
-AI
-LLMs • MCP • LangChain (if applicable)
+AI - 
+LLMs • MCP • LangChain
 
-Tools
+Tools -
 Git • Linux • VS Code
 
 ## 🌱 2026 Goals
