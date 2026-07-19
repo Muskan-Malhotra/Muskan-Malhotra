@@ -29,6 +29,10 @@ I enjoy building AI-powered applications, cloud-native systems, and developer to
 - AI Agent applications
 - Preparing for MLH Fellowship
 
+## 📊 GitHub Stats
+
+![Muskan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muskan-Malhotra&show_icons=true&theme=github_dark&hide_border=true)
+
 Languages -
 Go • Python • Java • JavaScript
 
