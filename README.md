@@ -31,10 +31,12 @@ I enjoy building AI-powered applications, cloud-native systems, and developer to
 
 ## 📊 GitHub Stats
 
-![Muskan's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Muskan-Malhotra&show_icons=true&theme=github_dark&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api?username=Muskan-Malhotra&show_icons=true&theme=tokyonight)
+![Muskan's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Muskan-Malhotra&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muskan-Malhotra&layout=compact&theme=tokyonight&hide_border=true)
-Languages -
+
+
+## 📊 Tech Stack -
 Go • Python • Java • JavaScript
 Cloud -
 AWS • IBM Cloud • Docker • Kubernetes
