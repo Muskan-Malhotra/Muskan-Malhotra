@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi there, I'm Muskan 👋
+
+Software Engineer at IBM | AI & Cloud Engineer
+
+I enjoy building AI-powered applications, cloud-native systems, and developer tools. I'm passionate about creating reliable software, contributing to open source, and sharing what I learn with the developer community.
+
+
+## 🚀 Currently Building
+
+- AI Observability projects
+- Open Source contributions
+- Kubernetes & Cloud projects
+- AI Agent applications
+- Preparing for MLH Fellowship
+
+Languages
+Go • Python • Java • JavaScript
+
+Cloud
+AWS • IBM Cloud • Docker • Kubernetes
+
+AI
+LLMs • MCP • LangChain (if applicable)
+
+Tools
+Git • Linux • VS Code
+
+## 🌱 2026 Goals
+
+- Contribute consistently to Open Source
+- Build production-quality AI projects
+- Complete the MLH Fellowship
+- Strengthen my GitHub portfolio
+- Grow as a Software Engineer
