@@ -42,7 +42,8 @@ AWS • IBM Cloud • Docker • Kubernetes
 AI - 
 LLMs • MCP • LangChain
 Tools -
-Git • Linux • VS Code
+Git • Linux 
+
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muskan-Malhotra&layout=compact&theme=tokyonight&hide_border=true)
 
 
