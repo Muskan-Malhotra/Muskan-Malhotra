@@ -34,10 +34,8 @@ I build reliable AI systems, cloud-native applications, and developer tools whil
 
 ![Muskan's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Muskan-Malhotra&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muskan-Malhotra&layout=compact&theme=tokyonight&hide_border=true)
 
-
-## 📊 Tech Stack -
+## 💻 Tech Stack -
 Go • Python • Java • JavaScript
 Cloud -
 AWS • IBM Cloud • Docker • Kubernetes
@@ -45,7 +43,10 @@ AI -
 LLMs • MCP • LangChain
 Tools -
 Git • Linux • VS Code
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muskan-Malhotra&layout=compact&theme=tokyonight&hide_border=true)
 
+
+## 🍀 Gitub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Muskan-Malhotra&theme=tokyonight&hide_border=true)
 
 ## 🌱 2026 Goals
