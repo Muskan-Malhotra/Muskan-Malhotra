@@ -20,6 +20,8 @@ Software Engineer at IBM | AI & Cloud Engineer
 
 I enjoy building AI-powered applications, cloud-native systems, and developer tools. I'm passionate about creating reliable software, contributing to open source, and sharing what I learn with the developer community.
 
+I build reliable AI systems, cloud-native applications, and developer tools while exploring LLMs, AI observability, and Kubernetes.
+
 
 ## 🚀 Currently Building
 
@@ -27,7 +29,6 @@ I enjoy building AI-powered applications, cloud-native systems, and developer to
 - Open Source contributions
 - Kubernetes & Cloud projects
 - AI Agent applications
-- Preparing for MLH Fellowship
 
 ## 📊 GitHub Stats
 
